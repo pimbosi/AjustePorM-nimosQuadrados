@@ -1,0 +1,1 @@
+# AjustePorM-nimosQuadrados
