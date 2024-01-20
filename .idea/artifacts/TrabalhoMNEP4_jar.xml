@@ -1,0 +1,39 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TrabalhoMNEP4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TrabalhoMNEP4_jar</output-path>
+    <root id="archive" name="TrabalhoMNEP4.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/kotlin/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="TrabalhoMNEP4.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-statistics-distribution/1.0/48e7066597e272d1b1bd881c6af5aac2a18f0fa1/commons-statistics-distribution-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-rng-client-api/1.5/1802780bd24e0cb5b3cb46c0faa82dd2bf5aa20/commons-rng-client-api-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.12.21/1a257bbdb9288f2558d3767cc2cc22b499d5091c/byte-buddy-1.12.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-numbers-quaternion/1.1/41bccae9794948f307cccf5d9596717ce288ac93/commons-numbers-quaternion-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-numbers-combinatorics/1.1/30e954189fe642be743f54490b039f3c63e60813/commons-numbers-combinatorics-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.10/e80fe6ac3c3573a80305f5ec43f86b829e8ab53d/kotlin-stdlib-jdk8-1.6.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math4-legacy/4.0-beta1/fa33ddd9d0230999dbf36894d20f79c824867cf6/commons-math4-legacy-4.0-beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.10/b8af3fe6f1ca88526914929add63cf5e7c5049af/kotlin-stdlib-1.6.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-numbers-complex/1.1/cdc601c113d5b586d7830e12b55cae0fe3d6b56d/commons-numbers-complex-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-rng-simple/1.5/9d79086a6f595fb06ee498cae51baaad6df90c49/commons-rng-simple-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math4-legacy-exception/4.0-beta1/a7c5d7ce3ef6b099781e7881ee661b667e99dadd/commons-math4-legacy-exception-4.0-beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.10/e1c380673654a089c4f0c9f83d0ddfdc1efdb498/kotlin-stdlib-jdk7-1.6.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math4-legacy-core/4.0-beta1/b32fff4071f7e3816b8c8590e06bf90da9e5dc95/commons-math4-legacy-core-4.0-beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-numbers-field/1.1/2655884950d9e9ad9e46be825565948080e03806/commons-numbers-field-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-numbers-rootfinder/1.1/973adc16168af914366891658b571609aa55cef1/commons-numbers-rootfinder-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/8dfb9facd0830a27b1b5f29f84593f0aeee7773b/commons-exec-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.24.2/ebbf338e33f893139459ce5df023115971c2786f/assertj-core-3.24.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-numbers-fraction/1.1/e41b7da3e05b548b1ed6855005398657d63c4ae/commons-numbers-fraction-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-numbers-gamma/1.1/6e52f06ec53442cd2c5293dd62d559ff8cfb7c5e/commons-numbers-gamma-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-numbers-angle/1.1/a5fb182fd42494e4bf05a1d767027fe09b4e7168/commons-numbers-angle-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-numbers-core/1.1/60315a72638ae4dee8b689905c42109b399bf9e8/commons-numbers-core-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-numbers-arrays/1.1/287f7008b799aed7990987314614d38f6627b591/commons-numbers-arrays-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-rng-sampling/1.5/b1dca18b9a52d6860f013c1103c1871e194087c4/commons-rng-sampling-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-rng-core/1.5/cb00b2247134efb4cba3713828a22714f5f715f8/commons-rng-core-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math4-core/4.0-beta1/dbdbfcaa7451f6c57b99d9598f53aff6eb871edd/commons-math4-core-4.0-beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.10/c118700e3a33c8a0d9adc920e9dec0831171925/kotlin-stdlib-common-1.6.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

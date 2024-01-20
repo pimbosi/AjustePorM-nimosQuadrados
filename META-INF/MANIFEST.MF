@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Main.kt
+Class-Path: C:\Users\offme\IdeaProjects\TrabalhoMNEP4\src\main\kotlin\co
+ m\feliperodrigues\metodosdeajuste\Main.kt
+
