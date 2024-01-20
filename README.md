@@ -63,3 +63,8 @@ Contribuições são bem-vindas! Se encontrar problemas, bugs ou tiver melhorias
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
+
+## Licença do Gnuplot.kt
+
+O código fonte contido no arquivo `Gnuplot.kt` é utilizado com base na licença Apache License 2.0 do repositório [danftang/KotlinGnuplot](https://github.com/danftang/KotlinGnuplot). Consulte o arquivo [LICENSE](https://github.com/danftang/KotlinGnuplot/blob/master/LICENSE) desse repositório para obter detalhes sobre os termos e condições da licença.
+
