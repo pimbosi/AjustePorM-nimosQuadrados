@@ -4,16 +4,12 @@ Este é um projeto em Kotlin que realiza o ajuste por mínimos quadrados de dife
 
 ## Como Usar
 
-1. **Clone o Repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-
+1. **Baixe o arquivo JAR que se encontra em na seção de Releases**
+   
 2. **Execute o JAR:**
    ```bash
-   java -jar out/artifacts/TrabalhoMNEP4_jar/TrabalhoMNEP4.jar
+   java -jar TrabalhoMNEP4.jar
    ```
-
 3. **Siga as Instruções:**
    - Escolha a opção de ajuste desejada.
    - Insira o caminho do arquivo de dados contendo os pontos x e y separados por espaço.
