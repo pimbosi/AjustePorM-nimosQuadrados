@@ -48,7 +48,7 @@ O arquivo de dados deve conter duas colunas, onde a primeira coluna representa o
 
 ## Trabalho Acadêmico
 
-Este projeto foi desenvolvido como parte de um trabalho acadêmico para a disciplina de Métodos Numéricos Aplicados à Engenharia, oferecida pela Universidade de Brasília, Campus Gama.
+Este projeto foi desenvolvido como parte de um trabalho acadêmico para a disciplina de Métodos Numéricos Aplicados à Engenharia, no curso de graduação de Engenharia de Software oferecido pela Universidade de Brasília, Campus Gama.
 
 ## Licença
 
