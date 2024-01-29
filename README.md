@@ -9,17 +9,12 @@ Este é um projeto em Kotlin que realiza o ajuste por mínimos quadrados de dife
    git clone https://github.com/seu-usuario/seu-repositorio.git
    ```
 
-2. **Compile o Projeto:**
+2. **Execute o JAR:**
    ```bash
-   kotlinc -d out/artifacts/metodosdeajuste.jar -include-runtime src/com/feliperodrigues/metodosdeajuste/*.kt
+   java -jar out/artifacts/TrabalhoMNEP4_jar/TrabalhoMNEP4.jar
    ```
 
-3. **Execute o JAR:**
-   ```bash
-   java -jar out/artifacts/metodosdeajuste.jar
-   ```
-
-4. **Siga as Instruções:**
+3. **Siga as Instruções:**
    - Escolha a opção de ajuste desejada.
    - Insira o caminho do arquivo de dados contendo os pontos x e y separados por espaço.
    - Visualize a função ajustada no terminal e o gráfico gerado pelo Gnuplot.
@@ -35,11 +30,10 @@ Certifique-se de que essas dependências estão presentes no classpath ao compil
 
 ## Requisitos
 
-- Kotlin Compiler
 - Java Runtime Environment (JRE)
 - Gnuplot
 
-## Exemplo de Estrutura do Arquivo de Dados
+## Estrutura do Arquivo de Dados
 
 O arquivo de dados deve conter duas colunas, onde a primeira coluna representa os valores de x e a segunda coluna representa os valores de y. Cada linha representa um par de pontos.
 
@@ -56,15 +50,13 @@ O arquivo de dados deve conter duas colunas, onde a primeira coluna representa o
 - Certifique-se de ter o Gnuplot instalado e disponível no PATH do sistema.
 - Os comandos Gnuplot são gerados automaticamente para criar os gráficos.
 
-## Contribuições
+## Trabalho Acadêmico
 
-Contribuições são bem-vindas! Se encontrar problemas, bugs ou tiver melhorias a sugerir, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+Este projeto foi desenvolvido como parte de um trabalho acadêmico para a disciplina de Métodos Numéricos Aplicados à Engenharia, oferecida pela Universidade de Brasília, Campus Gama.
 
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
-
-## Licença do Gnuplot.kt
 
 O código fonte contido no arquivo `Gnuplot.kt` é utilizado com base na licença Apache License 2.0 do repositório [danftang/KotlinGnuplot](https://github.com/danftang/KotlinGnuplot). Consulte o arquivo [LICENSE](https://github.com/danftang/KotlinGnuplot/blob/master/LICENSE) desse repositório para obter detalhes sobre os termos e condições da licença.
 
